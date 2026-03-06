@@ -1,1 +1,6 @@
 node_modules
+dist
+v10_frames
+*.gif
+*.mp4
+palette.png
